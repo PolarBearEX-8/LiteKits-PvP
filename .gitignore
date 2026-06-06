@@ -1,0 +1,18 @@
+.gradle/
+build/
+*.class
+*.log
+
+# IDE
+.idea/
+*.iml
+.classpath
+.project
+.settings/
+
+# Runtime data
+shop.yml
+plugins/
+world/
+world_nether/
+world_the_end/

@@ -1,0 +1,30 @@
+name: LiteKits
+version: ${version}
+main: dev.souppvp.SoupPvPPlugin
+author: Codex
+description: Lightweight LiteKits PvP kit plugin.
+load: STARTUP
+commands:
+  spvp:
+    description: LiteKits command.
+    usage: /spvp <setspawn|join|leave|reload>
+    aliases: [souppvp, kitpvp]
+  kit:
+    description: Use a LiteKits kit.
+    usage: /kit <number>
+  editkit:
+    description: Open the LiteKits kit editor.
+    usage: /editkit <number>
+permissions:
+  litekits.admin:
+    description: Allows LiteKits admin commands.
+    default: op
+  litekits.kit:
+    description: Allows using and editing LiteKits kits.
+    default: true
+  souppvp.admin:
+    description: Legacy LiteKits admin permission.
+    default: op
+  souppvp.kit:
+    description: Legacy LiteKits kit permission.
+    default: true

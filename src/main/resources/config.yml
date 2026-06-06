@@ -1,0 +1,79 @@
+# General LiteKits settings.
+# Spawn is saved here by /spvp setspawn, /souppvp setspawn, or /kitpvp setspawn.
+
+features:
+  # Allows /kit <number>.
+  kits: true
+  # Allows /editkit <number>.
+  editkit: true
+  # Mushroom soup right-click healing.
+  instant-soup: true
+  # Sidebar scoreboard while inside LiteKits.
+  scoreboard: true
+  # Saves and counts kills/deaths/KD/killstreak.
+  stats: true
+  # Broadcasts kill/death/combat-log messages to LiteKits players.
+  death-messages: true
+  # Ender pearl cooldown.
+  enderpearl-cooldown: true
+  # Combat tagging after player damage.
+  combat: true
+  # Counts logout/world-change during combat as a death.
+  combat-log: true
+  # Placed blocks decay with break animation.
+  block-decay: true
+  # Water/lava placed by players disappears after a delay.
+  liquid-decay: true
+  # Obsidian/cobble/stone generated from player-placed liquids decays.
+  generated-block-decay: true
+  # LiteKits players can only break blocks caused by player actions.
+  block-break-protection: true
+  # Fire cannot spread or burn blocks in the LiteKits spawn world.
+  fire-protection: true
+
+combat:
+  cooldown-seconds: 20
+  block-leave-command: true
+  block-kit-command: true
+  block-editkit-command: true
+
+enderpearl:
+  cooldown-seconds: 15
+
+soup:
+  # 2 health = 1 heart. Default 6 = 3 hearts.
+  heal-health: 6.0
+  add-food: 6
+  add-saturation: 7.2
+  play-sound: true
+  return-bowl: true
+
+blocks:
+  placed-decay-seconds: 7.5
+  liquid-decay-seconds: 60
+  generated-block-decay-seconds: 60
+  animation-interval-ticks: 15
+
+scoreboard:
+  title: "&aLiteKits"
+  lines:
+    - "&7Kills: &f{kills}"
+    - "&7Deaths: &f{deaths}"
+    - "&7K/D: &f{kd}"
+    - "&7Killstreak: &f{killstreak}"
+    - "&8 "
+    - "&7Enderpearl: {enderpearl}"
+    - "&7Combat: {combat}"
+
+# World rule examples.
+# Use world names, or -ALL to apply to every loaded world.
+# Supported formats:
+# disable-night: -ALL
+# disable-night: [world, world_nether]
+# disable-night: {world, world2, -ALL}
+disable-night: []
+disable-weather: []
+
+# Cancels only world-generated monster spawns in these worlds.
+# Spawn eggs, spawners, commands, and plugin-spawned mobs still work.
+disable-world-mob-spawn: []
