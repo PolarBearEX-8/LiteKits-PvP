@@ -1,69 +1,117 @@
 LiteKits PvP Perimeter License 1.0.0
-Based on PolyForm Perimeter License 1.0.0
-https://polyformproject.org/licenses/perimeter/1.0.0
+Based on the PolyForm Perimeter License 1.0.0
+Original license: https://polyformproject.org/licenses/perimeter/1.0.0
 
 Required Notice: Copyright PolarBearEX-8 / LiteKits PvP.
 
-Acceptance
+This license is written in a simpler form for LiteKits PvP. It keeps the same main idea as the PolyForm Perimeter License: you may use, modify, and share the software, but you may not use it to provide a competing product.
 
-By using, copying, distributing, modifying, or building LiteKits PvP, you agree that these terms are binding conditions of every license granted here.
+1. Acceptance
 
-Copyright License
+By using, copying, building, modifying, or distributing LiteKits PvP, you agree to follow this license.
 
-The licensor grants you a copyright license to use LiteKits PvP for any permitted purpose. You may do anything with the software that would otherwise require copyright permission, subject to the distribution, notice, and noncompete terms below.
+These rules are both obligations and conditions. If you do not follow them, your rights under this license may end.
 
-Distribution
+2. What You May Do
 
-You may distribute copies of LiteKits PvP, including copies with permitted changes or new works, as long as each recipient receives either this license text or the license URL above, plus every Required Notice included with the software.
+You may:
 
-Changes and New Works
+- Use LiteKits PvP for permitted purposes.
+- Copy LiteKits PvP.
+- Modify LiteKits PvP.
+- Build new works based on LiteKits PvP.
+- Distribute LiteKits PvP, including modified copies.
 
-You may make changes to LiteKits PvP and create new works based on it for any permitted purpose. Those changed copies and new works may be distributed only under these terms.
+3. What You May Not Do
 
-Patent License
+You may not use LiteKits PvP to provide, market, publish, sell, or distribute a product that competes with LiteKits PvP.
 
-The licensor grants you a patent license for claims the licensor can license, or later becomes able to license, that your use of LiteKits PvP would otherwise infringe.
+A product competes with LiteKits PvP if it is offered as a replacement or substitute for the functionality or value of LiteKits PvP.
 
-Noncompete
+This applies even if the competing product is:
 
-Any purpose is permitted except providing any product that competes with LiteKits PvP.
+- Free.
+- Paid.
+- A plugin.
+- A library.
+- A service.
+- A fork.
+- A port to another platform or programming language.
+- Provided through a different interface.
 
-Competition
+4. Sharing and Distribution
 
-A product competes with LiteKits PvP if it is marketed or provided as a substitute for the functionality or value of LiteKits PvP. A product can compete no matter how it is designed, deployed, priced, distributed, or accessed, including as a service, library, plugin, fork, port, or free offering.
+If you give anyone a copy of LiteKits PvP, or any part of it, you must also give them:
 
-Fair Use
+- This license file, or
+- The original PolyForm Perimeter License URL listed above, and
+- Every Required Notice included with the software.
 
-Nothing in these terms limits fair use or similar rights you may have under applicable law.
+You may distribute changed versions only if those versions follow this same license.
 
-No Other Rights
+5. Changes and New Works
 
-These terms do not allow sublicensing or transferring your licenses. They do not prevent the licensor from licensing LiteKits PvP to others. No rights are granted except those stated here.
+You may make changes and create new works based on LiteKits PvP for any permitted purpose.
 
-Patent Defense
+You may share those changes or new works only under this license.
 
-If you make a written claim that LiteKits PvP infringes or contributes to infringement of any patent, your patent license under these terms ends immediately. If your company makes such a claim, your patent license also ends immediately for work done on behalf of that company.
+6. Patent License
 
-Violations
+The licensor gives you a patent license for patent claims the licensor can license, or later becomes able to license, that would otherwise be infringed by your permitted use of LiteKits PvP.
 
-If you are notified in writing that you violated these terms or acted outside your licenses, your licenses may continue only if this is your first notice, you fully comply within 32 days, and you take practical steps to correct past violations. Otherwise, all licenses end immediately.
+7. Patent Defense
 
-No Liability
+If you make a written claim that LiteKits PvP infringes or contributes to infringement of any patent, your patent license ends immediately.
 
-As far as the law allows, LiteKits PvP is provided as is, without warranty or condition. The licensor will not be liable for damages arising from these terms, the software, or use of the software under any legal theory.
+If your company makes that kind of claim, your patent license also ends immediately for work done on behalf of your company.
 
-Definitions
+8. Fair Use
 
-The licensor is the person or organization offering these terms.
+This license does not limit fair use or similar rights that the law may already give you.
 
-The software is LiteKits PvP and any part of it made available under these terms.
+9. No Sublicensing or Transfer
 
-A product may be a good, service, or combination of both.
+You may not sublicense or transfer your licenses to someone else.
 
-You means the individual or organization agreeing to these terms.
+The licensor may still give other licenses to other people.
 
-Your company means any legal entity, sole proprietorship, or organization you work for, plus all organizations controlling, controlled by, or under common control with that organization. Control means ownership of substantially all assets or power to direct management and policies by vote, contract, or otherwise, directly or indirectly.
+No rights are granted except the rights clearly written in this license.
 
-Your licenses means all licenses granted to you for LiteKits PvP under these terms.
+10. Violations
 
-Use means anything you do with LiteKits PvP that requires one of your licenses.
+If you are notified in writing that you violated this license, your license may continue only if:
+
+- This is your first written notice of violation.
+- You fully fix the violation within 32 days.
+- You take practical steps to correct past violations.
+
+If those requirements are not met, all your licenses end immediately.
+
+11. No Warranty and No Liability
+
+LiteKits PvP is provided "as is".
+
+The licensor gives no warranty or condition of any kind.
+
+As far as the law allows, the licensor is not liable for any damages related to:
+
+- This license.
+- LiteKits PvP.
+- Use of LiteKits PvP.
+- The nature or behavior of LiteKits PvP.
+
+12. Definitions
+
+"Licensor" means the person or organization offering LiteKits PvP under this license.
+
+"Software" means LiteKits PvP and any part of it made available under this license.
+
+"You" means the person or organization agreeing to this license.
+
+"Your company" means any organization you work for, plus organizations that control it, are controlled by it, or are under common control with it.
+
+"Control" means ownership of substantially all assets, or the power to direct management and policies by vote, contract, or otherwise.
+
+"Your licenses" means all licenses granted to you for LiteKits PvP under these terms.
+
+"Use" means anything you do with LiteKits PvP that requires one of your licenses.
